@@ -1,0 +1,1 @@
+Esta terceira entrega foca na implementação de JavaScript avançado para transformar a interface estática em uma aplicação web dinâmica e interativa. Os alunos devem demonstrar domínio de manipulação do DOM, eventos, armazenamento local e integração com frameworks, criando funcionalidades que simulem uma aplicação real.
